@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: [working]
 description: [A short description of your site's purpose]
 logo: [Location of the logo]
-show_downloads: ["false"]
+show_downloads: [false]
