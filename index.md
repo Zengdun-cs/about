@@ -18,4 +18,4 @@ Blog: [知乎个人主页](https://www.zhihu.com/people/ceng-xian-sen-43/posts)
   
 # Other Experience
 
-unfinished
+- 2018.10.16 The ICPC Asia-East Continent Final, Bronze Medal
