@@ -18,7 +18,7 @@ Blog: [知乎个人主页](https://www.zhihu.com/people/ceng-xian-sen-43/posts)
   
 # Other Experience
 
-- 2017-12 中国海洋大学大学生研究计划SRDP 项目负责人/优秀结题
+- 2017.12 中国海洋大学大学生研究计划SRDP 项目负责人/优秀结题
 - 2018.10 The ICPC Asia-East Continent Final, Bronze Medal
 - 2019.4 美国大学生数学竞赛 Honorable Mention
 
